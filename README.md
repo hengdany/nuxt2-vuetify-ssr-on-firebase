@@ -33,12 +33,11 @@ yarn setup
 yarn dev
 ```
 
-## change for default profil firebase (Local server)
+### for Serve (Local server)
+### change for default firebase profil
 ```bash
 firebase default
 ```
-### for Serve (Local server)
-
 ```bash
 yarn firebase:serve
 ```
